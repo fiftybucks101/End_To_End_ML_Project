@@ -7,3 +7,4 @@ plotly
 dill
 catboost
 xgboost
+flask
